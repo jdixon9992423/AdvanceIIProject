@@ -17,3 +17,6 @@ mechanization services; and market access.
 
 
 ![Crop Volume](CropVolume.png)
+
+## Method
+Python in VScdoe along with the Data Wrangler plugin was used to clean and transform the data into a usuable format, this was later transfer to PowerBI and the required charts generated based on the requirements if the project.
